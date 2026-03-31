@@ -9,8 +9,8 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Data files (too large for git)
-data/
+# Data files (too large for git - extracted locally)
+# data/
 
 # OS
 .DS_Store
