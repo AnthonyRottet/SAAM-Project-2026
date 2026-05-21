@@ -18,12 +18,12 @@ submission.
 | `report/figures/` | The 10 figures used by the report; (re)generated here when the notebook runs.                                                    |
 | `tools/saam_analysis.py` | Stand-alone analysis engine (verification copy).                                                                                 |
 | `Part_II_Results.xlsx` | Performance, carbon and monthly-return tables.                                                                                   |
-| `Part_1.xlsx`, `Part_I_Results.xlsx` | Part I result spreadsheets (kept for reference).                                                                                 |
+| `Part_1.xlsx` | Part I result spreadsheet (kept for reference).                                                                                  |
 | `data/` | Input Datastream files (needed to run the notebook).                                                                             |
 
-The Part I result spreadsheets (`Part_1.xlsx`, `Part_I_Results.xlsx`) are kept
-for reference but are **superseded** by `SAAM_Project_2026.ipynb`, which covers
-both parts on the corrected 2014–2024 sample.
+The Part I result spreadsheet (`Part_1.xlsx`) is kept for reference but is
+**superseded** by `SAAM_Project_2026.ipynb`, which covers both parts on the
+corrected 2014–2024 sample.
 
 ---
 
