@@ -18,3 +18,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Temp / scratch
+.tmp/

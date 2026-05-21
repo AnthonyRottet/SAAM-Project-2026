@@ -21,6 +21,6 @@ SAAM (Sustainability Aware Asset Management) course project — Portfolio Alloca
 
 ## Commands
 
-- **Run:** `python main.py`
+- **Run analysis:** `python tools/saam_analysis.py` (or run `SAAM_Project_2026.ipynb` top to bottom)
 - **Virtual environment:** `.venv/` (activate with `.venv/Scripts/activate` on Windows)
 - **Install dependencies:** `pip install -r requirements.txt`
