@@ -21,3 +21,7 @@ Thumbs.db
 
 # Temp / scratch
 .tmp/
+
+# LaTeX report sources — maintained on Overleaf, not in git
+report/report.tex
+report/sales_pitch.tex
