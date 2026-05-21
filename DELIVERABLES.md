@@ -17,7 +17,6 @@ submission.
 | `report/video_script.md` | Timed 10-minute **video** presentation script.                                                                                   |
 | `report/figures/` | The 10 figures used by the report; (re)generated here when the notebook runs.                                                    |
 | `tools/saam_analysis.py` | Stand-alone analysis engine (verification copy).                                                                                 |
-| `tools/results.json` | All numeric results (used to fill the report).                                                                                   |
 | `Part_II_Results.xlsx` | Performance, carbon and monthly-return tables.                                                                                   |
 | `Part_1.xlsx`, `Part_I_Results.xlsx` | Part I result spreadsheets (kept for reference).                                                                                 |
 | `data/` | Input Datastream files (needed to run the notebook).                                                                             |
