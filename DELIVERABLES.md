@@ -9,19 +9,18 @@ submission.
 
 ## 1. What is in the repository
 
-| File / folder | Role |
-|---|---|
+| File / folder | Role                                                                                                                             |
+|---|----------------------------------------------------------------------------------------------------------------------------------|
 | `SAAM_Project_2026.ipynb` | **Final notebook** — runs top to bottom, reproduces every report table and figure (Part I + Part II). Already executed; 0 errors. |
-| `report/report.tex` | **Report** source (LaTeX, ~20 pages). |
-| `report/sales_pitch.tex` | **Sales pitch** source (LaTeX, 1 page). |
-| `report/video_script.md` | Timed 10-minute **video** presentation script. |
-| `report/figures/` | The 10 figures used by the report; (re)generated here when the notebook runs. |
-| `tools/saam_analysis.py` | Stand-alone analysis engine (verification copy). |
-| `tools/build_notebook.py` | Rebuilds the notebook from source cells. |
-| `tools/results.json` | All numeric results (used to fill the report). |
-| `Part_II_Results.xlsx` | Performance, carbon and monthly-return tables. |
-| `Part_1.xlsx`, `Part_I_Results.xlsx` | Part I result spreadsheets (kept for reference). |
-| `data/` | Input Datastream files (needed to run the notebook). |
+| `report/report.tex` | **Report** source (overleaf).                                                                                                    |
+| `report/sales_pitch.tex` | **Sales pitch** source (overleaf).                                                                                               |
+| `report/video_script.md` | Timed 10-minute **video** presentation script.                                                                                   |
+| `report/figures/` | The 10 figures used by the report; (re)generated here when the notebook runs.                                                    |
+| `tools/saam_analysis.py` | Stand-alone analysis engine (verification copy).                                                                                 |
+| `tools/results.json` | All numeric results (used to fill the report).                                                                                   |
+| `Part_II_Results.xlsx` | Performance, carbon and monthly-return tables.                                                                                   |
+| `Part_1.xlsx`, `Part_I_Results.xlsx` | Part I result spreadsheets (kept for reference).                                                                                 |
+| `data/` | Input Datastream files (needed to run the notebook).                                                                             |
 
 The Part I result spreadsheets (`Part_1.xlsx`, `Part_I_Results.xlsx`) are kept
 for reference but are **superseded** by `SAAM_Project_2026.ipynb`, which covers
