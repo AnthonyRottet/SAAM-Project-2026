@@ -2,8 +2,8 @@
 # Fresh-machine setup:
 #   python -m venv .venv
 #   .venv\Scripts\activate            (Windows)   |   source .venv/bin/activate  (macOS/Linux)
-#   pip install -r requirements.txt
-#   jupyter notebook SAAM_Project_2026.ipynb      -> then Run All
+#   pip install -r requirements_BR.txt
+#   jupyter notebook Jupyter_BR.ipynb      -> then Run All
 # Tested with Python 3.12.
 
 # --- analysis ---
